@@ -3,7 +3,7 @@
     (fr)
     Je vais déjà commencer par une recherche des agences en front-end qui m’intéressent le plus dans la région de Liège (mais je suis quand même ouverte à toutes possibilités). 
 
-	J'ai déjà réalisé un entretien mercredi début d'après-midi pour **Zzam**. L'agence est très intéréssée de me prendre et je dois donner réponse avant le 20 Juillet. Je serai reprise comme front-end et devrai utliser Joomla. 
+	J'ai déjà réalisé un entretien mercredi début d'après-midi pour _Zzam_. L'agence est très intéréssée de me prendre et je dois donner réponse avant le 20 Juillet. Je serai reprise comme front-end et devrai utliser Joomla. 
 
     J'ai également eue un deuxième rendez-vous mercredi après-midi avec ATS Belgium (brx). Etant donné que c'est une agence de consulting il m'est demandé de remplir un "cv" afin qu'ils envoient mes compétences aux diverses agences qui seraient éventuellement intéréssées par moi.
 
