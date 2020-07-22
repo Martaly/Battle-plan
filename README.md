@@ -43,5 +43,6 @@ eventually flutter* but it remains to be seen depending on the evolution of the 
 - Currently in contact with Oanna
 
 ## Update
-- Electron: Note-taking application 
-	    Desktop clock application
+- Electron: - Note-taking application 
+	    - Desktop clock application
+- Anguler : - Tic Tac Toe application https://tic-tac-toe-5a146.web.app/
