@@ -30,19 +30,15 @@ javascript features that I'm missing but I won't stay there for more than two we
 eventually flutter* but it remains to be seen depending on the evolution of the month. 
 	Here it is :) 
 
-# Entretiens
-- ATS4IT
-- Zzam
-- JH8
-- Actuellement en contact avec Oanna
 
 #  Interviews
 - ATS4IT
 - Zzam
-- JH8
-- Currently in contact with Oanna
+- JH8 (Thursday aternoon, 6)
+- Oanna ( Wednesday 12 , 14H)
 
 ## Update
 - Electron: - Note-taking application 
 	    - Desktop clock application
 - Angular : - Tic Tac Toe application https://tic-tac-toe-5a146.web.app/
+- Personnal Page : CV 
