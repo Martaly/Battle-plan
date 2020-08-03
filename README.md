@@ -41,4 +41,4 @@ eventually flutter* but it remains to be seen depending on the evolution of the 
 - Electron: - Note-taking application 
 	    - Desktop clock application
 - Angular : - Tic Tac Toe application https://tic-tac-toe-5a146.web.app/
-- Personnal Page : CV 
+- Personnal Page : CV https://github.com/Martaly/cv-martaly
