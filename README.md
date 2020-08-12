@@ -32,13 +32,19 @@ eventually flutter* but it remains to be seen depending on the evolution of the 
 
 
 #  Interviews
-- ATS4IT
-- Zzam
-- JH8 (Thursday aternoon, 6)
-- Oanna ( Wednesday 12 , 14H)
+- ATS4IT --> Consulting agency
+- Zzam --> They want me but I say no because they use old technologies
+- JH8 (Thursday aternoon, 6) --> I pass his test, so he want me. Good projects
+- Oanna ( Wednesday 12 , 14H30)
 
 ## Update
 - Electron: - Note-taking application 
 	    - Desktop clock application
 - Angular : - Tic Tac Toe application https://tic-tac-toe-5a146.web.app/
+	    - ToDo List application https://github.com/Martaly/TODO-List-with-angular-
 - Personnal Page : CV https://github.com/Martaly/cv-martaly
+- Page 404 / Challenge Becode : https://github.com/Martaly/Martaly.github.io
+- Javascript : - Click Counter https://github.com/Martaly/Exercie-Javascrip-Click-Counter
+	       - Juste Prix : https://github.com/Martaly/JustePrix-Javascript
+	       - Meteo App : https://github.com/Martaly/MeteoApp-Javascript
+- VueJS : Music App : https://github.com/Martaly/MusicApp-VueJS
