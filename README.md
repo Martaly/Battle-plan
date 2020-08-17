@@ -35,7 +35,7 @@ eventually flutter* but it remains to be seen depending on the evolution of the 
 - ATS4IT --> Consulting agency
 - Zzam --> They want me but I say no because they use old technologies
 - JH8 (Thursday aternoon, 6) --> I pass his test, so he want me. Good projects
-- Oanna ( Wednesday 12 , 14H30)
+- Oanna ( Wednesday 12 , 14H30) They ask me to pass a test wednesday.
 
 ## Update
 - Electron: - Note-taking application 
@@ -48,3 +48,5 @@ eventually flutter* but it remains to be seen depending on the evolution of the 
 	       - Juste Prix : https://github.com/Martaly/JustePrix-Javascript
 	       - Meteo App : https://github.com/Martaly/MeteoApp-Javascript
 - VueJS : Music App : https://github.com/Martaly/MusicApp-VueJS
+
+Learning Symfony
